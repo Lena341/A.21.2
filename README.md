@@ -17,3 +17,4 @@ int main()
 }
 
 Note:
+The exercises are not mine, only the solution. They are part of the book "C++ from theory to practice" written by G. S. Tselikis.
