@@ -2,7 +2,7 @@
 # C++ exercise
 
 Set the abstract class with the name Product, which contains as protected fields the code and price of the product. Set the class Book with public access to Product with the private field publishing house which is of type string. Also, set the class Car with public access to Product and with the private field called horsepower. Add the right functions to the classes so that the following program works
-
+```
 int main()
 
 {
@@ -21,6 +21,6 @@ int main()
 	
 	return 0;
 }
-
+```
 Note:
 The exercises are not mine, only the solution. They are part of the book "C++ from theory to practice" written by G. S. Tselikis.
